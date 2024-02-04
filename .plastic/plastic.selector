@@ -1,0 +1,4 @@
+repository "proto-TypeHero@TypeHeroStudios@cloud"
+  path "/"
+    br "/main"
+    co "/main"
